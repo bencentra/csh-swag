@@ -1,0 +1,14 @@
+@CHARSET "UTF-8";
+
+* {
+	font-family: Verdana,Arial,sans-serif;	
+}
+
+#wrapper {
+	width: 1000px;
+	margin: auto;
+}
+
+header {
+	text-align: center;	
+}
