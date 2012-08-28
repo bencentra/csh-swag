@@ -18,6 +18,8 @@ section {
 	margin-bottom: 5px;	
 	padding: 10px;
 	border: 1px solid #EEEEEE;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
 	border-radius: 15px;
 }
 
